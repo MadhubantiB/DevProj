@@ -7,8 +7,10 @@ class About extends Component {
     }
     render() { 
         return (
-            
+            <>
             <h1>This is cloned by Madhu</h1>
+            <h1>This is developed by Madhu</h1>
+            </>
          );
     }
 }
